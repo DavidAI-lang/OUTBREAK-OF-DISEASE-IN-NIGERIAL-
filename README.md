@@ -3,6 +3,9 @@ FOCUSING ON MPOX, COVID-19 &amp; CHOLERA OUTBREAK
 
 ### Project overview
 This data analysis project aims to identify the trend of disease outbreak in Nigeria focusing on emerging and re-emerging disease such as covid-19, Mpox and cholera. 
+![Screenshot (32)](https://github.com/user-attachments/assets/427ab43d-35f1-4cdd-977b-5617b62de57c)
+
+
 
 ### Data source
 NCDC (Ngeria centre for disease control): the primary data was gotten from NCDC in the form of PDF.
